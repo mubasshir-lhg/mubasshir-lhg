@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mubasshir-lhg
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on open-source community packages adn widgets 
+- 💞️ I’m looking to collaborate on open-source community packages and widgets 
 - 📫 How to reach me mubasshirwriter@gmail.com
 
 <!---
