@@ -1,5 +1,4 @@
-👋 Hi, I’m Mubasshir
-🚀 React Native Expert | Full-Stack Developer
+React Native Expert | Cross-Platform App Developer | Full-Stack Developer
 
 I build high-performance, scalable mobile and web applications with React Native, React.js, Node.js, Next.js, and AWS.
 With 6+ years of experience, I focus on delivering clean, maintainable, and future-proof solutions.
